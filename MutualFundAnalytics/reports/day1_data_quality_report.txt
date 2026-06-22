@@ -1,0 +1,19 @@
+Day 1 Data Quality Report
+
+Project: Mutual Fund Analytics
+
+Dataset Checked: 01_fund_master.csv
+
+Data Validation Results:
+
+1. Total Rows: 40
+2. Total Columns: 15
+
+Missing Values: No missing values found in any column.
+
+Duplicate Records: No duplicate rows found.
+
+Data Types: Integer, Float and Object columns verified successfully.
+
+Conclusion:
+The dataset is clean, complete, and suitable for further analysis and processing. No data quality issues were identified during validation.
